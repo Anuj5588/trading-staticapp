@@ -13,7 +13,7 @@ export default function Navbar() {
           </div>
           <div>
             <span className="text-xl font-black tracking-tight bg-gradient-to-r from-white via-slate-100 to-cyan-400 bg-clip-text text-transparent">
-              Shasank Traders
+              Shashank Traders
             </span>
             <p className="text-[10px] tracking-widest uppercase text-cyan-400/80 font-bold">Institutional Analytics</p>
           </div>
